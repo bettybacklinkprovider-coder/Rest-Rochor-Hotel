@@ -1,0 +1,6 @@
+{
+  "name": "Rest Rochor Hotel",
+  "description": "Official website for Rest Rochor Hotel, Singapore. Premium boutique stay with modern rooms, 24/7 reception, and prime location at 12 Perak Rd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
